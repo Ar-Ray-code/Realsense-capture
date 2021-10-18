@@ -25,4 +25,6 @@ git clone https://github.com/Ar-Ray-code/Realsense_capture.git
 cd Realsense_capture/
 python3 Realsense_capture.py #Open Capture Window
 ```
+## Stop
 
+Push esc button.
