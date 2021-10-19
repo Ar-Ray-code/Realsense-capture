@@ -6,6 +6,8 @@ realsense d400 -> jpg + csv
 
 ## Requirements
 
+- RealSense sdk : [Installation](https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md)
+
 - Python3
 
 - pyrealsense2 (RealSense SDK)
